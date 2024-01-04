@@ -1,0 +1,13 @@
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.csproj.AssemblyReference.cache
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.Properties.Resources.resources
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.csproj.GenerateResource.cache
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.csproj.CoreCompileInputs.cache
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\bin\Debug\PrimijenjenaMatematika_DC.exe.config
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\bin\Debug\PrimijenjenaMatematika_DC.exe
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\bin\Debug\PrimijenjenaMatematika_DC.pdb
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.exe
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.pdb
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.Forms.MainForm.resources
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.Forms.Matrix2x2.resources
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.Forms.Matrix3x3.resources
+C:\Users\DuckySoLucky\source\repos\PrimijenjenaMatematika_DC\obj\Debug\PrimijenjenaMatematika_DC.Forms.CramerRule.resources
